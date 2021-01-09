@@ -1,0 +1,138 @@
+@font-face{
+	font-family:Sandwip;
+	src:url(Sandwipa.woff2) 
+	format('woff2'),url(Sandwipa.woff)
+	format('woff')
+	}
+@font-face{
+	font-family:ShorifSubornoGola;
+	src:url(Subornor.woff2) 
+	format('woff2'),url(Subornor.woff)
+	format('woff')
+	}
+@font-face{
+	font-family:ShorifSayef;
+	src:url(../webfont/sayef.woff2) 
+	format('woff2'),url(../webfont/sayef.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:ShamimUsha;
+	src:url(../webfont/ShamimUsha.woff2) 
+	format('woff2'),url(../webfont/ShamimUsha.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:shishir;
+	src:url(../webfont/Shishir.woff2) 
+	format('woff2'),url(../webfont/Shishir.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:shabdo;
+	src:url(../webfont/Shabdo.woff2) 
+	format('woff2'),url(../webfont/Shabdo.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:suborno;
+	src:url(../webfont/Suborno.woff2) 
+	format('woff2'),url(../webfont/Suborno.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:jonota;
+	src:url(../webfont/jonota.woff2) 
+	format('woff2'),url(../webfont/jonota.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:ador;
+	src:url(../webfont/Ador.woff2) 
+	format('woff2'),url(../webfont/Ador.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:subornoregular;
+	src:url(../webfont/SubornoRegular.woff2) 
+	format('woff2'),url(../webfont/SubornoRegular.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:bongo;
+	src:url(../webfont/Bongobondhu.woff2) 
+	format('woff2'),url(../webfont/Bongobondhu.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Mitali;
+	src:url(../webfont/Mitali.woff2) 
+	format('woff2'),url(../webfont/Mitali.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:sandwip;
+	src:url(../webfont/Sandwipa.woff2) 
+	format('woff2'),url(../webfont/Sandwipa.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:shumona;
+	src:url(../webfont/Shumona.woff2) 
+	format('woff2'),url(../webfont/Shumona.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Boisakhi;
+	src:url(../webfont/Boisakhi.woff2) 
+	format('woff2'),url(../webfont/Boisakhi.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Bhulua;
+	src:url(../webfont/Bhulua.woff2) 
+	format('woff2'),url(../webfont/Bhulua.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Ahnaf;
+	src:url(../webfont/Ahnaf.woff2) 
+	format('woff2'),url(../webfont/Ahnaf.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Ishita;
+	src:url(../webfont/Ishita.woff2) 
+	format('woff2'),url(../webfont/Ishita.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Probhati;
+	src:url(../webfont/Probhati.woff2) 
+	format('woff2'),url(../webfont/Probhati.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:RLipika;
+	src:url(../webfont/RLipika.woff2) 
+	format('woff2'),url(../webfont/RLipika.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Monohor;
+	src:url(../webfont/Monohor.woff2) 
+	format('woff2'),url(../webfont/Monohor.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Torongo;
+	src:url(../webfont/Torongo.woff2) 
+	format('woff2'),url(../webfont/Torongo.woff) 
+	format('woff')
+	}
+@font-face{
+	font-family:Karu;
+	src:url(../webfont/KaruAhasan.woff2) 
+	format('woff2'),url(../webfont/KaruAhasan.woff) 
+	format('woff')
+	}
