@@ -12,127 +12,127 @@
 	}
 @font-face{
 	font-family:ShorifSayef;
-	src:url(../webfont/sayef.woff2) 
-	format('woff2'),url(../webfont/sayef.woff) 
+	src:url(sayef.woff2) 
+	format('woff2'),url(sayef.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:ShamimUsha;
-	src:url(../webfont/ShamimUsha.woff2) 
-	format('woff2'),url(../webfont/ShamimUsha.woff) 
+	src:url(ShamimUsha.woff2) 
+	format('woff2'),url(ShamimUsha.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:shishir;
-	src:url(../webfont/Shishir.woff2) 
-	format('woff2'),url(../webfont/Shishir.woff) 
+	src:url(Shishir.woff2) 
+	format('woff2'),url(Shishir.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:shabdo;
-	src:url(../webfont/Shabdo.woff2) 
-	format('woff2'),url(../webfont/Shabdo.woff) 
+	src:url(Shabdo.woff2) 
+	format('woff2'),url(Shabdo.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:suborno;
-	src:url(../webfont/Suborno.woff2) 
-	format('woff2'),url(../webfont/Suborno.woff) 
+	src:url(Suborno.woff2) 
+	format('woff2'),url(Suborno.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:jonota;
-	src:url(../webfont/jonota.woff2) 
-	format('woff2'),url(../webfont/jonota.woff) 
+	src:url(jonota.woff2) 
+	format('woff2'),url(jonota.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:ador;
-	src:url(../webfont/Ador.woff2) 
-	format('woff2'),url(../webfont/Ador.woff) 
+	src:url(Ador.woff2) 
+	format('woff2'),url(Ador.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:subornoregular;
-	src:url(../webfont/SubornoRegular.woff2) 
-	format('woff2'),url(../webfont/SubornoRegular.woff) 
+	src:url(SubornoRegular.woff2) 
+	format('woff2'),url(SubornoRegular.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:bongo;
-	src:url(../webfont/Bongobondhu.woff2) 
-	format('woff2'),url(../webfont/Bongobondhu.woff) 
+	src:url(Bongobondhu.woff2) 
+	format('woff2'),url(Bongobondhu.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Mitali;
-	src:url(../webfont/Mitali.woff2) 
-	format('woff2'),url(../webfont/Mitali.woff) 
+	src:url(Mitali.woff2) 
+	format('woff2'),url(Mitali.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:sandwip;
-	src:url(../webfont/Sandwipa.woff2) 
-	format('woff2'),url(../webfont/Sandwipa.woff) 
+	src:url(Sandwipa.woff2) 
+	format('woff2'),url(Sandwipa.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:shumona;
-	src:url(../webfont/Shumona.woff2) 
-	format('woff2'),url(../webfont/Shumona.woff) 
+	src:url(Shumona.woff2) 
+	format('woff2'),url(Shumona.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Boisakhi;
-	src:url(../webfont/Boisakhi.woff2) 
-	format('woff2'),url(../webfont/Boisakhi.woff) 
+	src:url(Boisakhi.woff2) 
+	format('woff2'),url(Boisakhi.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Bhulua;
-	src:url(../webfont/Bhulua.woff2) 
-	format('woff2'),url(../webfont/Bhulua.woff) 
+	src:url(Bhulua.woff2) 
+	format('woff2'),url(Bhulua.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Ahnaf;
-	src:url(../webfont/Ahnaf.woff2) 
-	format('woff2'),url(../webfont/Ahnaf.woff) 
+	src:url(Ahnaf.woff2) 
+	format('woff2'),url(Ahnaf.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Ishita;
 	src:url(../webfont/Ishita.woff2) 
-	format('woff2'),url(../webfont/Ishita.woff) 
+	format('woff2'),url(Ishita.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Probhati;
-	src:url(../webfont/Probhati.woff2) 
-	format('woff2'),url(../webfont/Probhati.woff) 
+	src:url(Probhati.woff2) 
+	format('woff2'),url(Probhati.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:RLipika;
-	src:url(../webfont/RLipika.woff2) 
-	format('woff2'),url(../webfont/RLipika.woff) 
+	src:url(RLipika.woff2) 
+	format('woff2'),url(RLipika.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Monohor;
-	src:url(../webfont/Monohor.woff2) 
-	format('woff2'),url(../webfont/Monohor.woff) 
+	src:url(Monohor.woff2) 
+	format('woff2'),url(Monohor.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Torongo;
-	src:url(../webfont/Torongo.woff2) 
-	format('woff2'),url(../webfont/Torongo.woff) 
+	src:url(Torongo.woff2) 
+	format('woff2'),url(Torongo.woff) 
 	format('woff')
 	}
 @font-face{
 	font-family:Karu;
-	src:url(../webfont/KaruAhasan.woff2) 
-	format('woff2'),url(../webfont/KaruAhasan.woff) 
+	src:url(KaruAhasan.woff2) 
+	format('woff2'),url(KaruAhasan.woff) 
 	format('woff')
 	}
