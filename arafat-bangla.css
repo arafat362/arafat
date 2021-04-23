@@ -1,10 +1,6 @@
 @font-face {
   font-family: 'Arafat';
-  src: url('Arafat.eot');
-  src: url('Arafat.woff') format('woff'),
-       url('Arafat.ttf') format('truetype'),
-       url('Arafat.svg#Bangla') format('svg'),
-       url('Arafat.eot?#iefix') format('embedded-opentype');
+  src: url('Arafat_Bangla.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
